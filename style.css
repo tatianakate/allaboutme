@@ -1,0 +1,19 @@
+body {
+  background: url(https://www.solidbackgrounds.com/images/2560x1440/2560x1440-pale-blue-solid-color-background.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+
+p, h3, h2, h1, h4, h5, h6, ul {
+  background: linear-gradient(45deg, pink, gold);
+  color: #FFF;
+  /* box-shadow: 0 0 30px purple inset; */
+}
+
+::-webkit-scrollbar {
+  background: pink;
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: #FFF;
+}
